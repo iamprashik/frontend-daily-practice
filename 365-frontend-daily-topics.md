@@ -16,12 +16,12 @@ Keep the work genuine and small. A short explanation, screenshot, or tiny improv
 
 ## 1. JavaScript Foundations
 
-- [ ] **Day 001 - 2026-08-29:** Console.log and comments
-- [ ] **Day 002 - 2026-08-30:** Variables with const and let
-- [ ] **Day 003 - 2026-08-31:** Primitive data types
-- [ ] **Day 004 - 2026-09-01:** typeof and type checking
-- [ ] **Day 005 - 2026-09-02:** Arithmetic operators
-- [ ] **Day 006 - 2026-09-03:** Comparison operators
+- [X] **Day 001 - 2026-08-29:** Console.log and comments
+- [X] **Day 002 - 2026-08-30:** Variables with const and let
+- [X] **Day 003 - 2026-08-31:** Primitive data types
+- [X] **Day 004 - 2026-09-01:** typeof and type checking
+- [X] **Day 005 - 2026-09-02:** Arithmetic operators
+- [X] **Day 006 - 2026-09-03:** Comparison operators
 - [ ] **Day 007 - 2026-09-04:** Logical operators
 - [ ] **Day 008 - 2026-09-05:** Template literals
 - [ ] **Day 009 - 2026-09-06:** String length and indexing
