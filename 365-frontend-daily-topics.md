@@ -22,7 +22,7 @@ Keep the work genuine and small. A short explanation, screenshot, or tiny improv
 - [X] **Day 004 - 2026-09-01:** typeof and type checking
 - [X] **Day 005 - 2026-09-02:** Arithmetic operators
 - [X] **Day 006 - 2026-09-03:** Comparison operators
-- [ ] **Day 007 - 2026-09-04:** Logical operators
+- [X] **Day 007 - 2026-09-04:** Logical operators
 - [ ] **Day 008 - 2026-09-05:** Template literals
 - [ ] **Day 009 - 2026-09-06:** String length and indexing
 - [ ] **Day 010 - 2026-09-07:** String uppercase and lowercase methods
