@@ -24,7 +24,7 @@ Keep the work genuine and small. A short explanation, screenshot, or tiny improv
 - [X] **Day 006 - 2026-09-03:** Comparison operators
 - [X] **Day 007 - 2026-09-04:** Logical operators
 - [X] **Day 008 - 2026-09-05:** Template literals
-- [ ] **Day 009 - 2026-09-06:** String length and indexing
+- [X] **Day 009 - 2026-09-06:** String length and indexing
 - [ ] **Day 010 - 2026-09-07:** String uppercase and lowercase methods
 - [ ] **Day 011 - 2026-09-08:** trim and replace
 - [ ] **Day 012 - 2026-09-09:** slice and substring
