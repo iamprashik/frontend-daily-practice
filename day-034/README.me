@@ -1,0 +1,31 @@
+Day 034 - Optional Chaining
+
+What I practiced
+
+Using optional chaining (?.) to safely access properties that might not exist.
+
+What I learned
+
+* Optional chaining uses ?..
+* It prevents an error when a property or object is null or undefined.
+* If something before ?. is null or undefined, JavaScript returns undefined.
+* It is useful when working with objects and data that may be missing.
+
+Example
+
+const user = {
+    name: "Prashik"
+};
+console.log(user.name);
+console.log(user.address?.city);
+
+address does not exist, but optional chaining prevents an error.
+
+Expected output
+
+Prashik
+undefined
+
+Run
+
+node day-034/script.js
