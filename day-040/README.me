@@ -1,0 +1,32 @@
+Day 040 - BMI Calculator
+
+What I practiced
+
+Creating a function that calculates Body Mass Index (BMI) using weight and height.
+
+What I learned
+
+* Functions can accept multiple parameters.
+* The return keyword sends a calculated result back.
+* BMI is calculated using this formula:
+
+BMI = weight (kg) / height (m)²
+
+* The ** operator raises a number to a power.
+* We can use if/else if/else to categorize a result.
+
+Example
+
+function calculateBMI(weight, height) {
+    return weight / (height ** 2);
+}
+const bmi = calculateBMI(70, 1.85);
+console.log("BMI:", bmi.toFixed(2));
+
+Expected output
+
+BMI: 20.45
+
+Run
+
+node day-040/script.js
