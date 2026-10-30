@@ -1,17 +1,11 @@
 
-const person = {
-    name: "Prashik",
-    age: 21,
-    country: "Canada"
-};
 
-// Without destructuring
-// const name = person.name;
-// const age = person.age;
+ // Day 059 - The Spread Operator
 
-// With destructuring
-const { name, age, country } = person;
+const favoriteArtists = ["Beirut", "Radiohead", "Coldplay"];
 
-console.log(name);
-console.log(age);
-console.log(country);
+// Create a copy using spread
+const copiedArtists = [...favoriteArtists];
+
+console.log("Original:", favoriteArtists);
+console.log("Copied:", copiedArtists);
